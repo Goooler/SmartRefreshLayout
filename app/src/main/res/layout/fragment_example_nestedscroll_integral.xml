@@ -89,7 +89,7 @@
                             android:layout_width="2dp"
                             android:layout_height="18dp"
                             android:background="@color/colorPrimary"/>
-                        <androidx.legacy.widget.Space
+                        <Space
                             android:layout_width="@dimen/dimenPaddingCommon"
                             android:layout_height="wrap_content" />
                         <TextView style="@style/AppTheme.Label"
@@ -121,7 +121,7 @@
                                     android:textColor="@android:color/white"
                                     android:background="#44000000"/>
                             </FrameLayout>
-                            <androidx.legacy.widget.Space
+                            <Space
                                 android:layout_width="@dimen/dimenPaddingDiminutive"
                                 android:layout_height="wrap_content" />
                             <FrameLayout
@@ -140,7 +140,7 @@
                             </FrameLayout>
 
                         </LinearLayout>
-                        <androidx.legacy.widget.Space
+                        <Space
                             android:layout_width="wrap_content"
                             android:layout_height="@dimen/dimenPaddingDiminutive"/>
                         <LinearLayout
@@ -160,7 +160,7 @@
                                     android:textColor="@android:color/white"
                                     android:background="#44000000"/>
                             </FrameLayout>
-                            <androidx.legacy.widget.Space
+                            <Space
                                 android:layout_width="@dimen/dimenPaddingDiminutive"
                                 android:layout_height="wrap_content" />
                             <FrameLayout
@@ -199,7 +199,7 @@
                             android:layout_width="2dp"
                             android:layout_height="18dp"
                             android:background="@color/colorPrimary"/>
-                        <androidx.legacy.widget.Space
+                        <Space
                             android:layout_width="@dimen/dimenPaddingCommon"
                             android:layout_height="wrap_content" />
                         <TextView style="@style/AppTheme.Label"
